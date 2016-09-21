@@ -33,4 +33,8 @@ modelo. **Por ej: [(ngBind)]**
 
 * ***Eventos:*** Los eventos no es que necesariamente hagan fluir un dato, pero sí se considera un flujo de aplicación, 
 en este caso de la vista al modelo, ya que se originan en la vista y generalmente sirven para ejecutar métodos que 
-acabarán modificando cosas del modelo. **Por ej: (evento)**
+acabarán modificando cosas del modelo. **Por ej: (evento)**.
+
+Aqui un esquema:
+
+![imagen](http://www.desarrolloweb.com/archivoimg/general/3783.png)
